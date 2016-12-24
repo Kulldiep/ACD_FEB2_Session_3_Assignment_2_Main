@@ -1,0 +1,16 @@
+#container
+	{
+		margin-top:20px;
+		margin-left:30px;
+	}
+
+.search
+	{
+	height:25px;
+	width:120px;
+	vertical-align: text-bottom;
+	}
+
+p:nth-of-type(2) {
+    vertical-align: text-bottom;
+}
